@@ -1,2 +1,2 @@
 # Portfolio
-My fully responsive portfolio built with only HTML and CSS
+My fully responsive portfolio site built with only HTML and CSS
